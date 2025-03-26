@@ -32,8 +32,7 @@ This project, developed by 3885M, showcases a modern approach to Web Components,
 
 Clone the repository:
 
-git clone https://github.com/3885M/Web-Components--Local.git
-
+git clone https://github.com/3885M/WEB-COMPONENTS-LOCAL
 Run the project: Open index.html in your preferred browser.
 
 🛠 How to Use
